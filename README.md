@@ -72,7 +72,7 @@ just install
 just do-it
 ```
 
-> Akabinde aşağıdaki gibi loglar alacaksınız ve done diyecek.
+> Akabinde aşağıdaki gibi loglar alacaksınız ve done diyecek...
 
 ![image](https://github.com/ruesandora/Polymer/assets/101149671/4346fe3f-425c-4fe8-bdd8-7aeab5ae7eb8)
 
